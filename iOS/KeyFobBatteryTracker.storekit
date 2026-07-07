@@ -1,0 +1,40 @@
+{
+  "identifier": "00000000-0000-0000-0000-000000000000",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "localizations": [],
+      "name": "KeyFobBatteryTracker Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "00000000-0000-0000-0000-000000000002",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Multi-fob/vehicle tracking with battery type notes",
+              "displayName": "KeyFobBatteryTracker Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.fobbattery.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "KeyFobBatteryTracker Pro Monthly",
+          "subscriptionGroupID": "00000000-0000-0000-0000-000000000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
